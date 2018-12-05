@@ -3,8 +3,7 @@ layout: post
 title: TankWarz
 published: true
 ---
-![title menu.png](accelthreat.github.io/_posts/title menu.png "Logo Title Text 1")
-
+![title menu.png]({{site.baseurl}}/images/banner.png)
 TankWarz is a strategic and skill based tank
 game that will pit you against other players on
 randomly generated terrain. This game will test your
