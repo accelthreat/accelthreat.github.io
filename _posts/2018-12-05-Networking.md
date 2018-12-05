@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dev Diary 2 Networking
+title: TankWarz-Dev Diary 2 Networking
 excerpt: TankWarz was the first networked game I ever worked upon and learning the ropes of multiplayer networking was a fun but very frustrating experience for me. This is the journey of how I designed the TankWarz network.
 published: true
 ---
