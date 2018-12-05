@@ -5,4 +5,10 @@ published: true
 ---
 ![title menu.png]({{site.baseurl}}/_posts/title menu.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+TankWarz is a strategic and skill based tank
+game that will pit you against other players on
+randomly generated terrain. This game will test your
+might as a war-machine as well as your war-time
+strategy against your opponent. Every bullet is
+counted, ever shot is timed, you only have one life,
+GAME ON!
