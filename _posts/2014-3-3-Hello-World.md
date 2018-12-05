@@ -10,7 +10,7 @@ game that will pit you against other players on
 randomly generated terrain. This game will test your
 might as a war-machine as well as your war-time
 strategy against your opponent. Every bullet is
-counted, ever shot is timed, you only have one life,
+counted, every shot is timed, you only have one life but you can respawn,
 GAME ON!
 
 ### How to Play
@@ -23,3 +23,5 @@ TankWarz simulates how a tank moves.
 - L - turn the turret clockwise
 - K - fire
 
+### Gameplay
+Every time you get hit an opponent you get points. If a tank goes down belown 0 HP, the tank is out of the match. However, the player may choose to respawn and play again and their points will be kept. By the end of defined time (default 2 mins) the game ends and the player with most points wins.
