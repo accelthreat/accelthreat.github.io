@@ -19,5 +19,7 @@ TankWarz simulates how a tank moves.
 - S - move backward in the direction of the tank
 - A - turn the tank counterclockwise
 - D - turn the tank clockwise
-- 
+- J - turn the turret counterclockwise
+- L - turn the turret clockwise
+- K - fire
 
